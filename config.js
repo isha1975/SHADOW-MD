@@ -5,10 +5,10 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "put sesson id",
-ALIVE_IMG: process.env.ALIVE_IMG || "https://telegra.ph/file/ecc50749e60a73fc28ce0.jpg",
-ALIVE_MSG: process.env.ALIVE_IMG || "🤖🔰 Hi SHADOW-MD Is Online Now 💻\n*💻 Owner* - SHADOW MD\n\n*💻 Owner Number* -94767910958\n\n_විධාන මෙනුව ලබා ගැනීමට .menu ලෙස ටයිප් කරන්න._",
-SUDO_NB: process.env.SUDO_NB || "ඔයාගෙ owner number එක දෙන්න",
-AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
+SESSION_ID: process.env.SESSION_ID || "rN1AHBbR#5eudIHbvSWczWdPEj5Ct3He1YJnYxvAiW2DNE-C4LHM",
+ALIVE_IMG: process.env.ALIVE_IMG || "https://telegra.ph/file/91746e61ff4504a9014bb.jpg",
+ALIVE_MSG: process.env.ALIVE_IMG || "🤖🔰 Hi MD Is Online Now 💻\n*💻 Owner* - MD\n\n*💻 Owner Number* -94707330800\n\n_විධාන මෙනුව ලබා ගැනීමට .menu ලෙස ටයිප් කරන්න._",
+SUDO_NB: process.env.SUDO_NB || "94707330800",
+AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "false",
 MODE: process.env.MODE || "public",
 };
